@@ -1,7 +1,7 @@
 # Persian Sentiment Analysis "persian-sentiment-analysis"
         A trained model to predict sentiment class of a given Persian text.
 # Read More:
-        To find about preprocessing and feature engineering, and how the model predicts go to [arXiv]https://arxiv.org/abs/2101.08087)
+        To find about preprocessing and feature engineering, and how the model predicts go to [arXiv](https://arxiv.org/abs/2101.08087)
 
 
 # Usage:
