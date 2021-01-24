@@ -1,4 +1,4 @@
-# Persian Sentiment Analysis "persian-sentiment-analysis"
+# Persian Sentiment Analysis 
 A trained model to predict sentiment class of a given Persian text.
 
 # Read More:
