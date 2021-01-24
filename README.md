@@ -8,7 +8,7 @@
   
 # Example 
   
- ```zsh
+ ```bash
  
 MOHAMMADs:persian_sa mohammadkasra$ python3 persian_sa.py 
 
