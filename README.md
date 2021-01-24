@@ -7,7 +7,7 @@
       - To exit the program write ```exit``` on terminal.
   
 # Example 
-        ``` bash
+        ```zsh
         
         MOHAMMADs:persian_sa mohammadkasra$ python3 persian_sa.py 
 
