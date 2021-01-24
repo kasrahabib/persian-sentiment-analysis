@@ -1,11 +1,11 @@
 # Persian Sentiment Analysis "persian-sentiment-analysis"
         A trained model to predict sentiment class of a given Persian text.
 # Read More:
-        To find about preprocessing and feature engineering, and how the model predicts go to arXiv: <a href="https://arxiv.org/abs/2101.08087" target="_top">Download Page</a>
+        To find about preprocessing and feature engineering, and how the model predicts go to arXiv: <a href="https://arxiv.org/abs/2101.08087"target="_top">Download Page</a>
 
 
 # Usage:
-      - To run the program run \textit{python3 persian_sa.py}.
+      - To run the program run python3 persian_sa.py.
       - Next you will be propted to give an Persian text as input.
       - To exit the program write ```exit``` on terminal.
   
