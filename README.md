@@ -7,7 +7,7 @@ To find about preprocessing and feature engineering, and how the model predicts 
 
 # Usage:
 - To run the program, use python3 persian_sa.py
-- Next you will be prompted to give an Persian text as input.
+- Next you will be prompted to give a Persian text as input.
 - To exit the program write ```exit``` on terminal.
   
 # Example: 
