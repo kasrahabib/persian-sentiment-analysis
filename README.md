@@ -4,7 +4,7 @@ A trained model to predict sentiment class of a given Persian text.
 # Installation
 
 ```bash
-pip3 install persianSA
+pip3 install persian_sa
 
 ````
 
