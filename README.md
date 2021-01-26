@@ -42,7 +42,7 @@ MOHAMMADs:persian_sa mohammadkasra$
         
 ```
 
-## Running with after Pip install
+## Running after Pip install
 
 ```python
 
