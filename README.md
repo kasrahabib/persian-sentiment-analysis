@@ -1,6 +1,13 @@
 # Persian Sentiment Analysis 
 A trained model to predict sentiment class of a given Persian text.
 
+# Installation
+
+```bash
+pip3 install persianSA
+
+````
+
 # Read More:
 To find about preprocessing and feature engineering, and how the model predicts visit [arXiv](https://arxiv.org/abs/2101.08087).
 
@@ -10,7 +17,9 @@ To find about preprocessing and feature engineering, and how the model predicts 
 - Next you will be prompted to give a Persian text as input.
 - To exit the program write ```exit``` on terminal.
   
-# Example: 
+# Usage:
+
+## Running the source code:
   
  ```bash
  
@@ -33,4 +42,23 @@ Input: exit
 ...  exit: 0
 MOHAMMADs:persian_sa mohammadkasra$ 
         
+```
+
+## Running with after Pip install
+
+```python
+
+>>> from persianSA import persianSA
+>>> 
+>>> persianSA.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد')
+'Negative!'
+>>> # Or you can predict the class number; if you set "return_class_label = True"
+>>> persianSA.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد', return_class_label = True)
+0
+>>> persianSA.predict_sentiment('اجرای آنها شادی مطلق است')
+'Positive!'
+>>> persianSA.predict_sentiment('اجرای آنها شادی مطلق است', return_class_label = True)
+1
+>>>
+
 ```
