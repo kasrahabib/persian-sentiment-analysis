@@ -11,16 +11,14 @@ pip3 install persianSA
 # Read More:
 To find about preprocessing and feature engineering, and how the model predicts visit [arXiv](https://arxiv.org/abs/2101.08087).
 
-
-# Usage:
-- To run the program, use python3 persian_sa.py
-- Next you will be prompted to give a Persian text as input.
-- To exit the program write ```exit``` on terminal.
   
 # Usage:
 
 ## Running the source code:
-  
+- To run the program, use python3 persian_sa.py
+- Next you will be prompted to give a Persian text as input.
+- To exit the program write ```exit``` on terminal.
+
  ```bash
  
 MOHAMMADs:persian_sa mohammadkasra$ python3 persian_sa.py 
