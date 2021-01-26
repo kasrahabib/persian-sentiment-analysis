@@ -46,16 +46,16 @@ MOHAMMADs:persian_sa mohammadkasra$
 
 ```python
 
->>> from persianSA import persianSA
+>>> from persian_sa import persian_sa
 >>> 
->>> persianSA.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد')
+>>> persian_sa.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد')
 'Negative!'
 >>> # Or you can predict the class number; if you set "return_class_label = True"
->>> persianSA.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد', return_class_label = True)
+>>> persian_sa.predict_sentiment('می تواند به همین دلیل از آن متنفر باشد', return_class_label = True)
 0
->>> persianSA.predict_sentiment('اجرای آنها شادی مطلق است')
+>>> persian_sa.predict_sentiment('اجرای آنها شادی مطلق است')
 'Positive!'
->>> persianSA.predict_sentiment('اجرای آنها شادی مطلق است', return_class_label = True)
+>>> persian_sa.predict_sentiment('اجرای آنها شادی مطلق است', return_class_label = True)
 1
 >>>
 
