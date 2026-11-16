@@ -20,7 +20,7 @@ repository-code: "https://github.com/kasrahabib/persian-sentiment-analysis"
 
 url: "https://zenodo.org/records/24293125"
 
-license: "CC-BY-4.0"
+license: "MIT License"
 
 abstract: >-
   This repository contains the tools and supporting resources
