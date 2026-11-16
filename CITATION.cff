@@ -1,0 +1,35 @@
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+
+type: software
+
+title: "The challenges of Persian User-generated Textual Content: A Machine Learning-based Approach"
+
+authors:
+  - family-names: "Habib"
+    given-names: "Mohammad Kasra"
+    affiliation: "Technical University of Munich"
+
+version: "1.0.1"
+date-released: "2026-11-16"
+
+doi: "10.5281/zenodo.24293125"
+
+repository-code: "https://github.com/kasrahabib/persian-sentiment-analysis"
+
+url: "https://zenodo.org/records/24293125"
+
+license: "CC-BY-4.0"
+
+abstract: >-
+  This repository contains the tools and supporting resources
+  developed for the study titled "The Challenges of Persian
+  User-Generated Textual Content: A Machine Learning-Based Approach."
+
+keywords:
+  - Persian
+  - sentiment analysis
+  - machine learning
+  - natural language processing
+  - user-generated content
