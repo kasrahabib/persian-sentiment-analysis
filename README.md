@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/332563559.svg)](https://doi.org/10.5281/zenodo.24293124)
+
 # Persian Sentiment Analysis 
 A trained model to predict sentiment class of a given Persian text.
 
